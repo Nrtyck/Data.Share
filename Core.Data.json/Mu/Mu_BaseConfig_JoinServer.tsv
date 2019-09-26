@@ -1,0 +1,10 @@
+"CustomerName":"测试"
+"CustomerHardwareId ":"1F769755-A8FEC429-F45BE466-9940D8E7"
+"JoinServerODBC":"MuOnline"
+"JoinServerPort": 55970
+"ConnectServerAddress":"127.0.0.1"
+"ConnectServerPort": 55557
+"AllowableIpList":[ "127.0.0.1"]
+"CaseSensitive":0
+"MD5Encryption":0
+"BadSyntax":[""]

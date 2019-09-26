@@ -1,0 +1,6 @@
+"CustomerName":"测试"
+"CustomerHardwareId ":"1F769755-A8FEC429-F45BE466-9940D8E7"
+"DataServerODBC":"MuOnline"
+"DataServerPort": 55960
+"AllowableIpList":[ "127.0.0.1"]
+"BadSyntax":[""]

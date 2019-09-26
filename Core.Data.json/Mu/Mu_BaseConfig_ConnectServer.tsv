@@ -1,0 +1,22 @@
+"CustomerName":"测试"
+"CustomerHardwareId ":"1F769755-A8FEC429-F45BE466-9940D8E7"
+"ConnectServerPortTCP":44405
+"ConnectServerPortUDP": 55557
+"MaxIpConnection": 10
+"PalyerOnlineRate": 10
+"ServerList":[
+  {
+    "ServerCode": 0,
+    "ServerName": "游戏服务器一线",
+    "ServerAddress": "169.254.105.19",
+    "ServerPort": 55901,
+    "ServerType": "SHOW"
+  },
+  {
+    "ServerCode": 19,
+    "ServerName": "攻城线",
+    "ServerAddress": "169.254.105.19",
+    "ServerPort": 55919,
+    "ServerType": "HIDE"
+  }
+]
